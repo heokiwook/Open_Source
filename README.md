@@ -10,4 +10,4 @@
     주제 : 카메라 센서를 이용하여 안구를 인식하고 졸음 상태인지 아닌지 확인
     목표 : 졸음을 감지하여 졸음운전을 방지하는 등 다양하게 쓰이도록 하는 것
 
-[github 주소]<https://github.com/heokiwook/Open_Source/>
+[github 주소] <https://github.com/heokiwook/Open_Source/>
